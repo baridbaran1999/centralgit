@@ -3,6 +3,6 @@ Jayhind
 Class "showcase"
 {
 public static void main(string[]args) {
-   System.out.println("I love Dipti")
+   System.out.println("jay shree ram")
 }
 }
