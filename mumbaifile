@@ -1,8 +1,0 @@
-Bande mataram
-Jayhind
-Class "showcase"
-{
-public static void main(string[]args) {
-   System.out.println("jay shree ram")
-}
-}
